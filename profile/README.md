@@ -13,9 +13,13 @@ SSAFY 15기 광주 4반 3조의 프로젝트 조직입니다. 2인 팀이 문제
 <p align="center"><strong>실제 품질 검사 · Dobot 분류</strong></p>
 
 <p align="center">
-  <a href="https://github.com/SSAFY-15th-HK/AQIS-for-SmartFactory#데모">
+  <a href="https://github.com/user-attachments/assets/70017e3e-594d-43b2-bcef-59bb4a8f0c32">
     <img src="./assets/aqis-real-demo.gif" alt="AQIS 실제 장비 시연" width="720" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/70017e3e-594d-43b2-bcef-59bb4a8f0c32"><strong>▶ 전체 두봇 분류 공정 보기 (34초)</strong></a>
 </p>
 
 <table>
