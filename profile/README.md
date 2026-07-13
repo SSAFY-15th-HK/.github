@@ -10,11 +10,30 @@ SSAFY 15기 광주 4반 3조의 프로젝트 조직입니다. 2인 팀이 문제
 
 **AI Quality Inspection System** — 캔 뚜껑의 불량 검사, 로봇 분류, 이동 로봇 상태, 실시간 모니터링을 연결한 디지털 트윈 기반 스마트팩토리 시스템입니다.
 
+<p align="center"><strong>실제 품질 검사 · Dobot 분류</strong></p>
+
 <p align="center">
-  <a href="https://github.com/SSAFY-15th-HK/AQIS-for-SmartFactory">
+  <a href="https://github.com/SSAFY-15th-HK/AQIS-for-SmartFactory#데모">
     <img src="./assets/aqis-real-demo.gif" alt="AQIS 실제 장비 시연" width="900" />
   </a>
 </p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>TurtleBot SLAM · 실시간 관제</strong><br /><br />
+      <a href="https://github.com/SSAFY-15th-HK/AQIS-for-SmartFactory#데모">
+        <img src="./assets/aqis-slam-demo.gif" alt="AQIS TurtleBot SLAM과 실시간 관제 시연" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <strong>RoboDK · 디지털 트윈</strong><br /><br />
+      <a href="https://github.com/SSAFY-15th-HK/AQIS-for-SmartFactory#데모">
+        <img src="./assets/aqis-simulation-demo.gif" alt="AQIS RoboDK 디지털 트윈 시연" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ```text
 RealSense + YOLO 검사 → 컨베이어 정지 → Dobot Pick & Place
