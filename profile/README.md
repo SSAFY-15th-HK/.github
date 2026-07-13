@@ -14,7 +14,7 @@ SSAFY 15기 광주 4반 3조의 프로젝트 조직입니다. 2인 팀이 문제
 
 <p align="center">
   <a href="https://github.com/SSAFY-15th-HK/AQIS-for-SmartFactory#데모">
-    <img src="./assets/aqis-real-demo.gif" alt="AQIS 실제 장비 시연" width="900" />
+    <img src="./assets/aqis-real-demo.gif" alt="AQIS 실제 장비 시연" width="720" />
   </a>
 </p>
 
